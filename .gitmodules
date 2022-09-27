@@ -10,3 +10,6 @@
 [submodule "bgfx"]
 	path = bgfx
 	url = https://github.com/bkaradzic/bgfx/
+[submodule "export-compile-commands"]
+	path = export-compile-commands
+	url = git@github.com:tarruda/premake-export-compile-commands.git

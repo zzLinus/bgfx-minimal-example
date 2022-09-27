@@ -17,6 +17,7 @@
 #include <GLFW/glfw3native.h>
 #include "logo.h"
 
+
 static bool s_showStats = false;
 
 static void glfw_errorCallback(int error, const char *description)
